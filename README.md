@@ -24,7 +24,7 @@ Features include:
 
 ## 📂 Dataset
 
-The dataset used is a cleaned CSV version of [Goodreads book ratings]([https://example.com](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks))  
+The dataset used is a cleaned CSV version of [Goodreads book ratings]:https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks
 
 ---
 
